@@ -1,5 +1,5 @@
 {
-    "name": "Some game abt Binary(it's a game about binary, not coded in binary)",
+    "name": "Some game abt Binary(it's a game about binary, not coded in binary) - Copy",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -10,7 +10,9 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
